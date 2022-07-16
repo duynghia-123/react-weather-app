@@ -7,6 +7,13 @@ const Weather = () => {
       <p>
         Enter city and country or select from one of the cities below to find
         out current weather conditions. Source code:{" "}
+        <a
+          href="https://github.com/duynghia-123/react-weather-app"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          GitHub repo
+        </a>
       </p>
       <p>
         <a
